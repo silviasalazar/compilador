@@ -1,0 +1,140 @@
+import Math
+import Keras
+
+namespace prueba:
+program class:
+	public static void main():
+		int num=5
+		int num2=10
+		string cadena="hola"
+		upper.cadena=string cadena2
+                  
+                      try:
+			while num < num2:
+				print(num)
+				num++
+			end
+
+			for int id=0;id<num;id++:
+				print(id)
+				id++
+			end
+
+			do:
+				print(num)
+				num++
+			end(while num<20)
+
+		end catch():
+			print("Error")
+		end
+		
+        exit()
+	end
+end
+clase public class:
+	int a=5
+	int b=10
+	string n="1"
+
+	void metodo():
+	
+	if a<b:
+		print(a +" es menor que " + b)
+	end
+	elif a>b:
+		print(a +" es mayor que "+b)
+	end
+	else:
+		print("Son iguales")
+	end
+	{1,2}=int lista
+	(1,2,3)=int arreglo[2]
+	[2,2] int matriz=new int [{0,1,2},{0,1,2},{4,5,6}]
+	convert(int(n))= int n2
+
+	end
+
+	
+
+	def (a,b) funcion:
+		int suma=10
+		print(suma)
+
+	end
+	
+end
+clase2 public class:
+       
+        string nombre=""
+        void metodo1(string nombre):
+	system.clear	
+	object objeto=new object()
+	
+	read.new read()
+
+	range(1,5)
+
+	int size=5
+	sizeof(size)
+
+	int maximo=0
+        math.Max(a)
+	print(maximo)
+           this.nombre=nombre
+        end
+        set:
+           nombre="Silvia"
+        end
+        get:
+           return nombre
+        end
+
+	
+end
+clase3 public class:
+
+	void preguntaSwitch():
+		print("Selecciona una figura ")
+		print("a Cuadrado")
+		print("b Rectangulo")
+
+		llamadaMetodo()
+		
+	end
+	void llamadaMetodo():
+		char seleccion='a'
+
+		switch(seleccion):
+			case 'a':
+				print("seleccionaste cuadrado ")
+				break
+			end
+			case 'b':
+				print("seleccionaste rectangulo ")
+				break
+			end
+			default:
+
+				print("opcion no valida")
+			end
+		end
+	end
+
+
+end
+:clase4:clase3 class:
+	void deClaseHeredada() :
+		get:
+     			return v1
+		end
+		set: 
+      			v1=valor
+		end
+	end
+end
+end
+
+
+
+
